@@ -507,3 +507,9 @@ header {
     .main-home, .main-seasons, .main-gallery, .main-contact { padding: 1rem; }
     .footer-content { flex-direction: column; gap: 1rem; }
 }
+
+.linea {
+    display: block;
+    margin: 0;        /* elimina margen vertical */
+    line-height: 1.8; /* ajusta espacio entre líneas */
+}
